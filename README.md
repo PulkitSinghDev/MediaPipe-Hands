@@ -7,7 +7,7 @@
 - [MediaPipe-hands](https://codepen.io/pulkitsinghdev/full/xxgdBLO)
 
 ## Source code:-
-- [Source](/src)
+- [Source](https://codepen.io/pulkitsinghdev/pen/xxgdBLO)
 
 ## License:-
 ```MIT License
